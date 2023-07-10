@@ -1,0 +1,450 @@
+version: "2.0"
+
+intents:
+- greet
+- supply_contact_info
+- thank
+- browse_product_categories
+- goodbye 
+- browse_agric_equipment
+- browse_books
+- browse_crop_products
+- browse_livestock
+- browse_livestock_feed
+- browse_veterinary
+- browse_chicken_cages
+- browse_egg_crates
+- browse_defeathering_machine
+- browse_feeders
+- browse_incubator
+- browse_agronomy
+- browse_motor_machines
+- browse_poultry_processing_equipment
+- browse_agrochemicals
+- browse_fish
+- browse_poultry
+- browse_cradlettt
+- sign_in_faq
+- forgot_password_faq
+- change_password_faq
+- payment_faq
+- payment_on_delivery_faq
+- card_payment_faq
+- order_faq
+- invoice_faq
+- order_status_faq
+- coupon_faq
+- downloadables_faq
+- delivery_faq
+- check_wishlist 
+- check_browsing_history
+- make_custom_request
+- login
+- sign_up
+- cart
+
+
+entities:
+- name
+- email
+
+slots:
+  name:
+    type: text
+  email:
+    type: text
+
+responses:
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+  
+  utter_ask_for_contact_info:
+  - text: Hello! Could you please provide your contact information?
+  utter_acknowledge_provided_info:
+  - text: Thanks {name}, for the info!
+  utter_thanks_reply:
+  - text: Thank you for using this service! Have a nice day.
+
+  utter_reply_greeting:
+  - text: Hello! Welcome to the Afrimash support service. How may I help you today?
+  - text: Hi there! It's great to have you here today. Welcome to the Afrimash chat customer support service. What services can I offer you?
+  - text: Good day. Trust you're doing great today. How may I help you?
+  - text: Hello there! This is the Afrimash customer support chatbot. How can I help you?
+
+  utter_category_list:
+  - text: "On the Afrimash website we have the following categories of products and services available -
+    1. Agricultural Equipment
+    2. Books
+    3. Crop Products
+    4. Livestock
+    5. Livestock Feed
+    6. Veterinary products.
+  which of these would you like to access?"
+
+  - text: "Here are the products and services we have available -
+    1. Agricultural Equipment
+    2. Books
+    3. Crop Products
+    4. Livestock
+    5. Livestock Feed
+    6. Veterinary products.
+  Which one of these are you interested in?"
+
+  - text: "We have products availablefor your use and consumption categorized into the following -
+    1. Agricultural Equipment
+    2. Books
+    3. Crop Products
+    4. Livestock
+    5. Livestock Feed
+    6. Veterinary products.
+  Which of these categories satisfies what you need?"
+
+  utter_agric_equipment:
+    - text: "We have different classes of equipment for agriculture including - Poultry Equipment, Cattle Equipment, Fish Equipment, Knapsack Sprayers, Pig Equipment, Rabbit Equipment, Weighing Scales."
+
+  utter_cattle_equipment:
+  - text: "We have cattle equipment available at https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/cattle-agricultural-equipment/"
+
+  utter_fish_equipment:
+    - text: We have fish equipment at https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/fish-equipment/
+
+  utter_knapsack_sprayers:
+    - text: You can get a knapsack sprayer here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/outdoor-agricultural-equipment/knapsack-sprayers/
+
+  utter_pig_equipment:
+    - text: Get pig equipment from https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/pig-equipment/
+
+  utter_rabbit_equipment:
+    - text: Get rabbit equipment https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/rabbit-equipment/
+
+  utter_weighing_scales:
+    - text: Buy yourself a weighing scale here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/outdoor-agricultural-equipment/scales/
+
+
+  utter_chicken_cages:
+    - text: You can get chicken cages here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry_cage/
+
+  utter_egg_crates:
+    - text: You can get empty crates from https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/chicken-egg-crate/
+
+  utter_defeathering_machine:
+    - text: Get your defeathering machines from https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/defeathering-machine/
+
+  utter_feeders:
+    - text: buy yourself a feeder from here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry-feeders-drinkers/
+
+  utter_incubator:
+    - text: by yourself and incubator https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/incubator/
+
+  utter_motor_machines:
+    - text: You can get a water pump from here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/water-pumps/
+
+  utter_ppe:
+    - text: You can get poultry processing equipment here https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry-processing-equipment/
+
+  utter_crop_products:
+    - text: We have agrochemicals and agronomy products. Which would you love to explore?
+
+  utter_agrochemicals:
+    - text: "The following classes of products are available under agrochemmicals with their links
+      - Herbicides
+      https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/herbicides/
+      
+      - Fungicides
+      https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/fungicides/
+      
+      - Insecticides
+      https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/insecticide/"
+
+  utter_agronomy:
+    - text: " The following classes of products are available under agronomy products with their links
+    - Plant Seedlings
+    https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/crop-products/plant-seedlings/
+    
+    - Treated Crop Seeds
+    https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/crop-products/treated-seeds/
+    
+    - Plant Production and Protection
+    https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/
+    
+    - Fertilizers
+    https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/fertilizers/
+  "
+  utter_livestock:
+    - text: We have different types of livestock available including fish, poultry, cradle to the table and other livestock (porcine pigs, rabbits and snails). Which would you like to explore?
+
+
+  utter_fish:
+    - text: "We have the following types of fish available
+      - Table Fish
+    https://www.afrimash.com/product-category/livestock-section/livestock/fish/table-fish/
+    
+    - Ornamental Fish
+    https://www.afrimash.com/product-category/livestock-section/livestock/fish/ornamental-fish/"
+
+  utter_poultry:
+    - text: "Check out our range of available poultry 
+    - Day Old Chicks
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day-old-chicks/
+    - Day Old Turkeys
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day_old_turkey/
+    - Mature Turkeys
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day-old-chicks/cockerels-kuroilers-noilers/
+    - Day Old Cockerels, Kuroilers/Noilers
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/turkey/
+    - Point of Lay
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/point-of-lay/
+    - Spent layers
+  https://www.afrimash.com/product-category/livestock-section/livestock/poultry/spent-layers/"
+
+  utter_cradlettt:
+    - text: "Check out our cradle to the table utter_veterinary_specials
+      - Cradle to the Table
+      - Early Stage (Poultry)
+      https://www.afrimash.com/cradle-to-the-table/#early
+
+      - Mid-Stage (Poultry)
+      https://www.afrimash.com/cradle-to-the-table/#mid
+
+      - Advanced Stage (Poultry)
+      https://www.afrimash.com/cradle-to-the-table/#advanced
+
+      - Mature/Processing Stage (Poultry)
+      https://www.afrimash.com/cradle-to-the-table/#processing"
+
+  utter_other_livestock:
+    - text: "check out our other livestock 
+    - Commercial Rabbits
+  https://www.afrimash.com/product-category/livestock-section/livestock/commercial-rabbits/
+    - Pigs (Porcine)
+  https://www.afrimash.com/product-category/livestock-section/livestock/pigs-porcine/
+    - Snails
+  https://www.afrimash.com/product-category/livestock-section/livestock/snail/"
+
+
+
+  utter_books:
+    - text: "We have books on livestock and on organic farming. You can view our books on livestock here
+      https://www.afrimash.com/product-category/livestock-section/book/livestock-ebooks/ and our books on Organic Farming here 
+      https://www.afrimash.com/product-category/livestock-section/book/organic-farming-ebooks/"
+
+
+
+  utter_livestock_feed:
+    - text: "We sell food for pigs, poultry, rabbits and domestic pets. You can access all of them by follwing the appropriate links below
+      - Pig Feed
+      https://www.afrimash.com/product-category/livestock-section/feeds/pig-feed/
+        - Poultry Feed
+      https://www.afrimash.com/product-category/livestock-section/feeds/poultry-feed/
+        - Rabbit Feed
+      https://www.afrimash.com/product-category/livestock-section/feeds/rabbit-feed/
+        - Pet-Food
+      https://www.afrimash.com/product-category/livestock-section/feeds/pet-food/"
+
+
+  utter_veterinary_categories:
+    - text: Under veterinary products we have veterinary medicines and special veterinary items.   
+
+  utter_veterinary_medicines:
+    - text: " We have a wide array of veterinary medicines that can be accessed from here - - Veterinary Antibiotics
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/veterinary-antibiotics/
+
+      - Anticoccidials
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/anticoccidial/
+
+      - Special Therapy (Essential Oils)
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/special-therapy/
+
+      - Multivitamins
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/multivitamins/
+
+      - Disinfectants
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/disinfectant/
+
+      - Liver Protection Agents
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/liver-protection-agents/
+
+      - Feed Additive
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/feed-additive/
+
+      - Insecticides
+      https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/insecticide/
+
+      - PetCare and Ectoparasiticides
+      https://www.afrimash.com/product-category/livestock-section/pets/pet-care-and-ectoparasiticides/
+
+      - Probiotics (growth promoters)
+      https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/probiotics/"
+  
+
+  utter_veterinary_specials:
+    - text: -"We have Vaccines available, you can check them out here - https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/vaccine-medicine/ We also have Zoo Equipment for sale at this link. https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/zoo-equipment/"
+
+
+  utter_check_wishlist:
+    - text: You can add products to your wishlist here -  https://www.afrimash.com/wishlist-2/
+
+  utter_browsing_history:
+    - text: You can check your browsing history here - https://www.afrimash.com/your-browsing-history/
+
+  utter_custom_request:
+    - text: Do you want to make a custom order? You can place one here - https://www.afrimash.com/custom-request/
+
+  utter_login:
+    - text: Click this link to login to your profile - https://www.afrimash.com/my-account/
+    - text: You can login to your profile here - https://www.afrimash.com/my-account/
+
+  utter_sign_in:
+    - text: You can sign up on our website here - https://www.afrimash.com/my-account/
+    - text: Click here to sign up on our website - https://www.afrimash.com/my-account/
+
+  utter_cart:
+    - text: Do you have any incomplete transactions? Check out your cart here - https://www.afrimash.com/cart/
+
+
+
+  utter_sign_in_faq:
+    - text: "You can easily sign into your Afrimash account with your username and password. Click the login button at the top (main menu) of the website, then enter your username and password.
+
+
+  OR
+
+
+  Click here to login now."
+
+
+
+  utter_forgot_password_faq:
+    - text: "Click the following link and enter your email or username to get a link for you to create a new password.
+      The link will be sent to your email. So, keep your registered email open."
+
+
+
+
+  utter_change_password_faq:
+    - text: Changing your Afrimash password is easy. Login to your Afrimash account and click the link that says change password.
+
+
+
+  utter_payment_faq: 
+    - text: "To pay for an item on Afrimash, please follow the following steps:
+
+  BUY NOW—Select the product (s) you want to buy, and click Buy Now. If you can’t find the item, you can use our search box, go to My Browsing History, or My Wishlist (if you have previously added the product to your Wishlist.
+  If you need further information or bulk discount, select Make Enquiry/Request a Quote. You will receive a response to your inquiry as well the next steps to take. If Buy Now button is not there, maybe the price of that item changes often, select Ask A Question to request a quote in this situation.
+
+  PROCEED TO CHECKOUT—Update and confirm the quantity you want to buy and click Proceed to Checkout.
+  SELECT METHOD OF PAYMENT – There are two main payment methods:
+  1. Bank Transfer: Select Bank Transfer if you would like to send your payment via ATM transfer, in-bank transfer, Mobile Money (like Paga), or Mobile Transfer (using your bank USSD code like *894# for FirstBank).If you decide to pay via bank transfer/deposit, your order will be on-hold until you make payment and notify Afrimash via email, SMS, or WhatsApp. You will receive a confirmation email and SMS when we process your order.
+
+  2. Pay with a Debit/Credit Card or Online with Bank: Our Online Payment option is provided and properly secured by Paystack.
+
+  You have four (4) easy options to pay:
+  a. Debit/Credit Card: You only need to enter your card details (Mastercard, Verve Card, or Visa Card), and click “Pay”. Your order will be processed immediately payment goes through. (Note that we accept cards domiciled in naira)
+  b. Bank: The following six (6) banks allow you to pay through their Internet banking or using your bank account number directly and your order is processed immediately payment goes through.
+  Wema (bank account number)
+  Firstbank (Internet Banking)
+  Guaranty Trust (Internet banking and USSD code)
+  Sterling bank (bank account number)
+  UBA (bank account number)
+  Zenith Bank (bank account number)
+  c. GTB 737: This option is for GTB account holders. You can quickly dial a USSD code to complete your transaction with GTBank’s 737.
+  d. Visa QR: You can scan the QR code displayed in your Ecobank, FirstBank, Fidelity, Access, Diamond or Zenith Bank mobile app to complete your payment using this method.
+
+  PLACE ORDER – Once everything is set, check the box for Terms and Conditions (if you have read them) and click PLACE ORDER. You will receive an email and SMS notification to confirm your order. If you are paying via Bank Deposit or Bank Transfer, we will not process your order until we confirm payment.
+  What is your account number?
+  Please make payment only to any of the following Afrimash Holding Accounts:
+
+  First Bank Plc
+  Account name: AFRIMASH COMPANY LIMITED
+  Account Number: 2035451334
+
+  UBA Plc
+  Account name: AFRIMASH COMPANY LIMITED
+  Account Number: 2129087920
+
+  Once you have made payments, you need to send us proof of payment should in case we are unable to match your payment with your order. You can do this on your orders page here. Go to My Account>orders>View>Add Note to upload your proof of payment.
+
+  Call Afrimash on 0-809-409-1115 if you need help."
+
+
+
+
+
+  utter_payment_on_delivery_faq:
+    - text: No, we don’t accept payment on delivery. Please make full payment before we ship the products to you.
+
+
+
+  utter_card_payment_faq:
+    - text: "You can pay online using your Mastercard, Visa Card, or Verve Card when you Place Order. You may also pay by Bank Transfer/Deposit into any of Afrimash Holding Accounts above.
+
+  Yes, you can pay with Mastercard, Visa card, or Verve card domiciled in naira."
+
+
+  utter_order_faq:   
+    - text: "Finding an item, placing an order, and receiving your item is very easy on Afrimash. Once you have found the item you want to buy follow the steps below.
+
+  If the Buy Now button is visible, that means you can immediately pay for that item.
+
+  Click on BUY NOW button to add the product to your cart. You will be redirected to the Cart page. If you still have other products to buy, click CONTINUE SHOPPING button on the cart page.
+
+  If you have already navigated away from the product you want to buy, click on Browsing History at the top of the page to see your recently viewed items.
+
+  Enter your billing and/or shipping information."
+
+
+
+
+
+  utter_invoice_faq:
+    - text: "Once we confirm your payment and process your order, you can easily download your invoice from your My Account Page on Afrimash and print it out for your use.
+
+  You will also find your invoice attached to the email we send to you when your order processes and when your order is completed."
+
+
+
+
+
+  utter_order_status_faq:
+    - text: We will send you updates concerning the status of your order regularly. If you have questions, reply the order email you receive from us.
+
+
+
+
+
+  utter_coupon_faq:
+    - text: "A coupon code is used to give you a discount or free shipping for one or more items. It usually consists of letters and/or numbers that you can enter in your Shopping Cart or Checkout Page in order to get a discount on your purchase from Afrimash.
+
+  Coupons are not always available, and the validity of coupons is usually limited. So, always ensure you use coupon codes as soon as they are available."
+
+
+
+
+
+  utter_downloadables_faq:
+    - text: "Most products have downloadables attached for easy navigation, use and additional information on the product specifications. Downloadables include E-books, additional product pictures, data sheet, specifications, operational manual, terms and conditions of use, audiovisual media etc.
+
+  Once your order has been created and payment made, it automatically becomes processed and the downloadable files made accessible to you via your email and your order history in your Afrimash account.
+
+  To view your downloadables via your Afrimash account, kindly follow the steps below.
+  How do I view/access downloadable files attached to my order?
+  Once you have received an email notification of an update of your order from On-hold to Processing, your downloadables are immediately made available for your review and downloads."
+
+
+
+
+  utter_delivery_faq:
+    - text: "Yes, you can pick up your order from our shipping partners in any of the 36 states in Nigeria. After you make your order, you will receive email and SMS to let you know how to pick up your order.
+
+  Always ensure you make your order with your most active phone number and email address. If you have any of questions, please call our customer care line.
+
+  Find our delivery points here.
+
+  How fast can I get my products delivered to me? If I make payment today, can I receive it today?
+  Our delivery timeline is 3 to 4 days after payment unless otherwise stated on the product page. If we plan to deliver earlier than our normal delivery timeline, we would contact you."
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

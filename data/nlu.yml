@@ -1,0 +1,383 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - good morning
+    - good afternoon
+    - good evening
+    - hey there
+    - hiya
+    - what's up
+    - hello, good evening
+    - hey there
+    - hi there
+    - hello there
+    - Yo
+    - yo what's up
+    - what's up
+    - sup
+    - wagwan
+    - what's good
+    - hi what's going on
+
+- intent: login
+  examples: |
+    - I want to login to the platform from here
+    - Can I login to your website?
+    - I want to login to your website
+
+- intent: sign_up
+  examples: |
+    - Can I register on your platform?
+    - How do I sign up?
+    - I want to sign up to on website
+
+- intent: thank
+  examples: |
+    - Thanks
+    - Thank you
+    - Thank you so much
+    - Thanks bot
+    - Thanks for that
+    - cheers
+    - cheers bro
+    - ok thanks!
+    - thank you very much
+    - i appreciate this
+    - i appreciate you
+    - thanks a million
+    - wow thanks
+    - perfect thank you
+    - thanks a bunch for everything
+    - thanks for the help
+    - thanks a lot
+    - amazing, thanks
+    - cool, thanks
+    - cool thank you
+    - thanks
+    - thanks!
+    - Cool. Thanks
+    - thanks
+    - thanks this is great news
+    - thank you
+    - great thanks
+    - Thanks!
+    - cool thanks
+    - thanks for forum link, I'll check it out
+
+
+- intent: goodbye
+  examples: |
+    - goodbye
+    - goodnight
+    - good bye
+    - good night
+    - see ya
+    - toodle-oo
+    - bye bye
+    - gotta go
+    - farewell
+    - catch you later
+    - bye for now
+    - bye
+    - bye was nice talking to you
+    - bye udo
+    - bye bye bot
+    - bye bot
+    - k byyye 
+    - talk to you later
+    - ciao
+    - Bye bye
+    - then bye
+    - bye!
+    - ok bye
+    - byeeeeeeeeeeeeeeee
+    - laterrrrrrrrrrrrrrrrrrrrrrr
+    - I have to go
+    - later
+    - talk to you later
+    - thank you and goodnight
+    - thanks, bye
+    - have a nice day
+
+
+- intent: browse_product_categories
+  examples: |
+    - what are the different products you offer
+    - what different products are provided by afrimash
+    - different services provided by Afrimash
+    - what can I buy on your site
+    - what do you sell on Afrimash
+    - What do you offer
+    - what can I buy here?
+    - what goods and services do you provide?
+
+
+- intent: browse_agric_equipment
+  examples: |
+    - what are the agricultural equipment  you offer
+    - can i check out your agricultural equipment 
+    - I'm interested in agricultural equipment 
+    - I want to buy agricultural equipment 
+    - I need agricultural equipment 
+    - what agricultural equipment  is available
+    - what do you sell under agricultural equipment?
+    - I need some agricultural equipment 
+
+
+- intent: browse_books
+  examples: |
+    - what are the books you offer
+    - can i check out your books 
+    - I'm interested in books 
+    - I want to buy books 
+    - I need books 
+    - what books are available
+    - what do you sell under books h
+    - I need some books 
+    - what kind of books do you have?
+    - You sell books here?
+
+
+- intent: browse_crop_products
+  examples: |
+    - what are the crop products  you offer
+    - can i check out your crop products 
+    - I'm interested in crop products 
+    - I want to buy crop products 
+    - I need crop products 
+    - what crop products are available
+    - what do you sell under crop products h
+    - I need some crop products 
+    - what kind of crop products do you have?
+    - You sell crop products here?
+
+
+- intent: browse_livestock
+  examples: |
+    - what are the livestock products you offer
+    - can i check out your livestock products 
+    - I'm interested in livestock 
+    - I want to buy livestock 
+    - do you sell livestock h
+    - what livestock are available
+    - what do you sell under livestock h
+    - I need some livestock animals
+    - what kind of livestock do you have?
+    - You sell livestock here?
+    - what type of livestock do you sell?
+
+
+- intent: browse_livestock_feed
+  examples: |
+    - what are the livestock feed products you offer
+    - I want to buy food for my animals
+    - I'm interested in livestock feed 
+    - I want to buy animal food
+    - I need animal feed
+    - what livestock feed are available
+    - what do you sell under livestock feed h
+    - I need some livestock feed 
+    - what kind of livestock feed do you have?
+    - You sell animal food here?
+
+- intent: browse_chicken_cages
+  examples: |
+    - I need a cage for my chickens
+    - I need a chicken cage
+    - I'm interested in buying cages for my livestock 
+
+
+- intent: browse_egg_crates
+  examples: |
+    - I want to buy a crate
+    - I need an egg crate
+    - I just want a creat without eggs inside
+
+- intent: browse_defeathering_machine
+  examples: |
+    - I want to buy a defeathering machine
+    - Can i see your defeathering machines?
+    - I need a defeathering machine. 
+
+- intent: browse_feeders
+  examples: |
+    - I need a chiken feeder
+    - I need a feeder
+    - do you have chicken feeders?
+
+- intent: browse_incubator
+  examples: |
+    - I need an incubator
+    - I want to buy an incubator
+    - Do you have incubator?
+    - I need to buy an incubator for my chicks
+
+- intent: browse_motor_machines
+  examples: |
+    - I want to buy a motor machine
+    - Can I buy a motor machine?
+
+- intent: browse_poultry_processing_equipment
+  examples: |
+    - I want to buy your poultry processing equipment
+    - what do you sell under poultry processing equipment? 
+
+
+- intent: browse_agrochemicals
+  examples: |
+    - I need agrochemicals
+    - do you have agrochemicals?
+    - what agrochemicals do you have?
+
+- intent: browse_agronomy
+  examples: |
+    - what is in this agronomy?
+    - Whwat does agronomoy even mean?
+
+- intent: browse_fish
+  examples: |
+    - I need fish 
+    - do you sell fish?
+
+- intent: browse_poultry
+  examples: |
+    - I need a chicken
+    - what poultry do you have?
+
+- intent: browse_cradlettt
+  examples: |
+    - what is cradle to the table?
+    - What exactly does cradle to the table mean?
+
+- intent: browse_livestock
+  examples: |
+    - I need a livestock
+    - do you have livestock?
+
+
+- intent: browse_veterinary
+  examples: |
+    - what are the  Veterinary products you offer
+    - I'm interested in  Veterinary 
+    - what  Veterinary are products do you offer available
+    - what do you sell under  Veterinary h
+    - what kind of  Veterinary products do you have?
+    - You sell  veterinary  things here?
+
+- intent: login
+  examples: |
+    - I want to login to the platform from here
+    - Can I login to your website?
+    - I want to login to your website
+    - I need to login.
+    - how do I login
+    - do i need to login?
+
+- intent: sign_up
+  examples: |
+    - Can I register on your platform?
+    - How do I sign up?
+    - I want to sign up to on website
+
+
+- intent: sign_in_faq
+  examples: |
+    - How Can I Sign into My Afrimash Account?
+    - How to I register
+
+- intent: forgot_password_faq
+  examples: |
+    - I don’t remember my password. What can I do?
+    - I forgot my password
+
+- intent: change_password_faq
+  examples: |
+    - How can I change my password?
+    - How do I change password to my account
+- intent: payment_faq
+  examples: |
+    - How do I pay for an order?
+    - I need to pay for my order
+
+- intent: payment_on_delivery_faq
+  examples: |
+    - Can I pay after delivery?
+    - Is payment only after delivery?
+    - Do you do pay on delivery?
+
+- intent: card_payment_faq
+  examples: |
+    - How do I pay into your account? Can I pay with ATM Card?
+    - can I use card to pay?
+- intent: order_faq
+  examples: |
+    - How do I place an order on Afrimash?
+    - I want to place an order on your platform
+
+- intent: invoice_faq
+  examples: |
+    - How Can I Get an Invoice for My Order?
+    - Ho do I get an invoice?
+- intent: order_status_faq
+  examples: |
+    - Can I check my order status? 
+    - How do I know the status of my order?
+
+- intent: coupon_faq
+  examples: |
+    - What is a Coupon Code? How Do I Use it?
+    - what are coupons?
+    - Does your coupon system really work?
+
+- intent: downloadables_faq
+  examples: |
+    - What are downloadables?
+    - I saw something about downloadables on your page. What is that?
+    - what does downloadables mean? 
+    - what are downloadables?
+
+- intent: delivery_faq
+  examples: |
+    - Do you deliver nationwide?
+    - Do you deliver?
+    - Do you do delivery?
+  
+
+- intent: check_wishlist 
+  examples: |
+    - Can I see my wishlist?
+    - what is on my wish list?
+    - what items are on my wishlist?
+    - I want to add something to my wishlist
+
+- intent: check_browsing_history
+  examples: |
+    - can I view my browsing history?
+    - I want to see my browsing history
+
+- intent: make_custom_request 
+  examples: |
+    - How do I make custom requests?
+    - What is a custom request?
+    - What are custom requests?
+
+- intent: cart
+  examples: |
+    - I have things left in my cart
+    - I didn't finish my last transaction
+    - can I check out my cart?
+    - I have some things on my cart
+    - I need to view my cart.
+
+- intent: supply_contact_info
+  examples: |
+    - My name is [John](name). email's [john@email.com](email)
+    - name: [David](name) email: [david@email.com](email)
+    - Yeah sure. I'm [Barbara](name). My email is [barbara@email.com](email)
+    - [Susan](name), [susan@email.com](email)
+    - Sure. It's [Fred](name). My email is [fred@email.com](email).

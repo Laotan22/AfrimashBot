@@ -1,0 +1,53 @@
+version: "2.0"
+
+stories:
+- story: user browses category
+  steps:
+  - intent: greet
+  - action: utter_reply_greeting
+  - intent: browse_product_categories
+  - action: utter_category_list
+  - intent: thank
+  - action: utter_thanks_reply
+
+
+
+- story: user browses agric equipment
+  steps:
+  - intent: browse_agric_equipment
+  - action: utter_agric_equipment 
+  
+
+- story: user browses books
+  steps:
+  - intent: browse_books
+  - action: utter_books
+
+- story: user browses poultry
+  steps:
+  - intent: browse_poultry
+  - action: utter_poultry
+
+
+- story: user browses crop products
+  steps:
+  - intent: browse_crop_products
+  - action: utter_crop_products
+
+  
+
+- story: user browses livestock feed product
+  steps:
+  - intent: browse_livestock_feed
+  - action: utter_livestock_feed
+
+
+- story: user browses fish 
+  steps:
+  - intent: browse_fish
+  - action: utter_fish
+
+- story: end of conversation
+  steps:
+  - intent: goodbye
+  - action: utter_thanks_reply

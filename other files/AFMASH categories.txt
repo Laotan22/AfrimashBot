@@ -1,0 +1,392 @@
+Greeting
+- hello
+
+search products
+Categories on the Afrimash website and their links
+
+1. Agricultural Equipment
+- Poultry Equipment
+
+	- Chicken Cages
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry_cage/
+
+	- Chicken Egg Crates
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/chicken-egg-crate/	
+
+	- Defeathering Machine
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/defeathering-machine/
+
+	- Feeders and Drinkers
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry-feeders-drinkers/
+	
+	- Incubators
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/incubator/
+	
+	- Outdoor Agricultural Equipment
+	https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/outdoor-agricultural-equipment/
+
+	- Motor Machines
+		- Water pumps
+		https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/water-pumps/		
+
+		- Poultry Processing Equipment
+		https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/poultry-equipment/poultry-processing-equipment/
+
+- Cattle Equipment
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/cattle-agricultural-equipment/
+
+- Fish Equipment
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/fish-equipment/
+
+- Knapsack Sprayers
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/outdoor-agricultural-equipment/knapsack-sprayers/
+
+- Pig Equipment
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/pig-equipment/
+
+- Rabbit Equipment
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/rabbit-equipment/
+
+- Weighing scales
+https://www.afrimash.com/product-category/agricultural-equipment-section/agricultural-equipment/outdoor-agricultural-equipment/scales/
+
+2. Books
+- Livestock eBooks
+https://www.afrimash.com/product-category/livestock-section/book/livestock-ebooks/
+
+- Organic Farming eBooks
+https://www.afrimash.com/product-category/livestock-section/book/organic-farming-ebooks/
+
+3. Crop Products
+- Agrochemicals
+	-Chemicals
+		- Herbicides
+		https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/herbicides/
+		
+		- Fungicides
+		https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/fungicides/
+		
+		- Insecticides
+		https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/insecticide/
+
+- Agronomy
+	- Plant Seedlings
+	https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/crop-products/plant-seedlings/
+	
+	- Treated Crop Seeds
+	https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/crop-products/treated-seeds/
+	
+	- Plant Production and Protection
+	https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/
+	
+	- Fertilizers
+	https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/fertilizers/
+
+4. Livestock
+- Fish
+	- Table Fish
+	https://www.afrimash.com/product-category/livestock-section/livestock/fish/table-fish/
+	
+	- Ornamental Fish
+	https://www.afrimash.com/product-category/livestock-section/livestock/fish/ornamental-fish/
+
+
+- Poultry
+	- Day Old Chicks
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day-old-chicks/
+	- Day Old Turkeys
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day_old_turkey/
+	- Mature Turkeys
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/day-old-chicks/cockerels-kuroilers-noilers/
+	- Day Old Cockerels, Kuroilers/Noilers
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/turkey/
+	- Point of Lay
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/point-of-lay/
+	- Spent layers
+https://www.afrimash.com/product-category/livestock-section/livestock/poultry/spent-layers/
+
+	- Cradle to the Table
+		- Early Stage (Poultry)
+		https://www.afrimash.com/cradle-to-the-table/#early
+
+		- Mid-Stage (Poultry)
+		https://www.afrimash.com/cradle-to-the-table/#mid
+
+		- Advanced Stage (Poultry)
+		https://www.afrimash.com/cradle-to-the-table/#advanced
+
+		- Mature/Processing Stage (Poultry)
+		https://www.afrimash.com/cradle-to-the-table/#processing
+
+- Other Livestock
+	- Commercial Rabbits
+https://www.afrimash.com/product-category/livestock-section/livestock/commercial-rabbits/
+	- Pigs (Porcine)
+https://www.afrimash.com/product-category/livestock-section/livestock/pigs-porcine/
+	- Snails
+https://www.afrimash.com/product-category/livestock-section/livestock/snail/
+
+5. Livestock Feed
+	- Pig Feed
+https://www.afrimash.com/product-category/livestock-section/feeds/pig-feed/
+	- Poultry Feed
+https://www.afrimash.com/product-category/livestock-section/feeds/poultry-feed/
+	- Rabbit Feed
+https://www.afrimash.com/product-category/livestock-section/feeds/rabbit-feed/
+	- Pet-Food
+https://www.afrimash.com/product-category/livestock-section/feeds/pet-food/
+
+6. Veterinary
+	- Veterinary Medicine
+		- Veterinary Antibiotics
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/veterinary-antibiotics/
+
+		- Anticoccidials
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/anticoccidial/
+
+		- Special Therapy (Essential Oils)
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/special-therapy/
+
+		- Multivitamins
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/multivitamins/
+
+		- Disinfectants
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/disinfectant/
+
+		- Liver Protection Agents
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/liver-protection-agents/
+
+		- Feed Additive
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/feed-additive/
+
+		- Insecticides
+		https://www.afrimash.com/product-category/afrimash-crop-section/plant-production-and-protection/agrochemicals/insecticide/
+
+		- PetCare and Ectoparasiticides
+		https://www.afrimash.com/product-category/livestock-section/pets/pet-care-and-ectoparasiticides/
+
+		- Probiotics (growth promoters)
+		https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/probiotics/
+
+
+- Special Veterinary Items
+	- Vaccines
+	https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/vet-medicine/vaccine-medicine/
+
+	- Zoo Equipment
+	https://www.afrimash.com/product-category/livestock-section/veterinary-products-and-services/zoo-equipment/
+
+check wishlist 
+https://www.afrimash.com/wishlist-2/
+
+check your browsing history
+https://www.afrimash.com/your-browsing-history/
+
+Make a custom request 
+https://www.afrimash.com/custom-request/
+
+
+
+
+FAQs
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- How Can I Sign into My Afrimash Account?
+You can easily sign into your Afrimash account with your username and password. Click the login button at the top (main menu) of the website, then enter your username and password.
+
+
+OR
+
+
+Click here to login now.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- I don’t remember my password. What can I do?
+Click the following link and enter your email or username to get a link for you to create a new password.
+
+- Lost Password?
+
+The link will be sent to your email. So, keep your registered email open.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- How can I change my password?
+Changing your Afrimash password is easy. Login to your Afrimash account and click the link below.
+
+- Edit Account
+
+You need to remember your current password and have your new password handy.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+How do I pay for an order?
+To pay for an item on Afrimash, please follow the following steps:
+
+BUY NOW—Select the product (s) you want to buy, and click Buy Now. If you can’t find the item, you can use our search box, go to My Browsing History, or My Wishlist (if you have previously added the product to your Wishlist.
+If you need further information or bulk discount, select Make Enquiry/Request a Quote. You will receive a response to your inquiry as well the next steps to take. If Buy Now button is not there, maybe the price of that item changes often, select Ask A Question to request a quote in this situation.
+
+PROCEED TO CHECKOUT—Update and confirm the quantity you want to buy and click Proceed to Checkout.
+SELECT METHOD OF PAYMENT – There are two main payment methods:
+1. Bank Transfer: Select Bank Transfer if you would like to send your payment via ATM transfer, in-bank transfer, Mobile Money (like Paga), or Mobile Transfer (using your bank USSD code like *894# for FirstBank).If you decide to pay via bank transfer/deposit, your order will be on-hold until you make payment and notify Afrimash via email, SMS, or WhatsApp. You will receive a confirmation email and SMS when we process your order.
+
+2. Pay with a Debit/Credit Card or Online with Bank: Our Online Payment option is provided and properly secured by Paystack.
+
+You have four (4) easy options to pay:
+a. Debit/Credit Card: You only need to enter your card details (Mastercard, Verve Card, or Visa Card), and click “Pay”. Your order will be processed immediately payment goes through. (Note that we accept cards domiciled in naira)
+
+b. Bank: The following six (6) banks allow you to pay through their Internet banking or using your bank account number directly and your order is processed immediately payment goes through.
+
+Wema (bank account number)
+Firstbank (Internet Banking)
+Guaranty Trust (Internet banking and USSD code)
+Sterling bank (bank account number)
+UBA (bank account number)
+Zenith Bank (bank account number)
+
+c. GTB 737: This option is for GTB account holders. You can quickly dial a USSD code to complete your transaction with GTBank’s 737.
+
+ 
+
+d. Visa QR: You can scan the QR code displayed in your Ecobank, FirstBank, Fidelity, Access, Diamond or Zenith Bank mobile app to complete your payment using this method.
+
+PLACE ORDER – Once everything is set, check the box for Terms and Conditions (if you have read them) and click PLACE ORDER. You will receive an email and SMS notification to confirm your order. If you are paying via Bank Deposit or Bank Transfer, we will not process your order until we confirm payment.
+What is your account number?
+Please make payment only to any of the following Afrimash Holding Accounts:
+
+First Bank Plc
+Account name: AFRIMASH COMPANY LIMITED
+Account Number: 2035451334
+
+UBA Plc
+Account name: AFRIMASH COMPANY LIMITED
+Account Number: 2129087920
+
+Once you have made payments, you need to send us proof of payment should in case we are unable to match your payment with your order. You can do this on your orders page here. Go to My Account>orders>View>Add Note to upload your proof of payment.
+
+Call Afrimash on 0-809-409-1115 if you need help.
+
+
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- When can I make payment?
+You can easily make payment when you place your order on our website. If you are in doubt, possibly because an item that does not have a stable price (e.g. day-old chicks), please use the button Ask A Question.
+
+
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- Can I pay after delivery?
+No, we don’t accept payment on delivery. Please make full payment before we ship the products to you.
+
+-How do I pay into your account? Can I pay with ATM Card?
+You can pay online using your Mastercard, Visa Card, or Verve Card when you Place Order. You may also pay by Bank Transfer/Deposit into any of Afrimash Holding Accounts above.
+
+Yes, you can pay with Mastercard, Visa card, or Verve card domiciled in naira,
+
+
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- How do I place an order on Afrimash?
+Finding an item, placing an order, and receiving your item is very easy on Afrimash. Once you have found the item you want to buy follow the steps below.
+
+If the Buy Now button is visible, that means you can immediately pay for that item.
+
+Click on BUY NOW button to add the product to your cart. You will be redirected to the Cart page. If you still have other products to buy, click CONTINUE SHOPPING button on the cart page.
+
+If you have already navigated away from the product you want to buy, click on Browsing History at the top of the page to see your recently viewed items.
+
+Enter your billing and/or shipping information.
+
+You will see a small box showing the quantity you have selected to buy. If you want more or less, you can change it here, and then click UPDATE CART. If you have a coupon code to use, you can also enter the code on this page, and click APPLY COUPON. Once you are set, you can PROCEED TO CHECKOUT.
+
+Select the method you will use to pay – mainly Bank Transfer/Deposit OR Debit/Credit card. If you opt to pay via bank transfer/deposit, your order will be on-hold until you make payment and notify Afrimash via email, SMS, or WhatsApp. You will receive a confirmation email and SMS when we process your order.
+
+Click PLACE ORDER to complete the process of placing your order.
+
+After you PLACE ORDER, we will confirm your order by email and/or SMS notification. Sometimes, we would need more clarification about your order. In a case like that, we will call you for clarification.
+
+If you have any question or worry, please call 08094091115 or email info(at)afrimash.com.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- How Can I Get an Invoice for My Order?
+Once we confirm your payment and process your order, you can easily download your invoice from your My Account Page on Afrimash and print it out for your use.
+
+You will also find your invoice attached to the email we send to you when your order processes and when your order is completed.
+
+- How do I know the status of my order?
+We will send you updates concerning the status of your order regularly. If you have questions, reply the order email you receive from us.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+- What is a Coupon Code? How Do I Use it?
+A coupon code is used to give you a discount or free shipping for one or more items. It usually consists of letters and/or numbers that you can enter in your Shopping Cart or Checkout Page in order to get a discount on your purchase from Afrimash.
+
+Coupons are not always available, and the validity of coupons is usually limited. So, always ensure you use coupon codes as soon as they are available.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+What are downloadables?
+Most products have downloadables attached for easy navigation, use and additional information on the product specifications. Downloadables include E-books, additional product pictures, data sheet, specifications, operational manual, terms and conditions of use, audiovisual media etc.
+
+Once your order has been created and payment made, it automatically becomes processed and the downloadable files made accessible to you via your email and your order history in your Afrimash account.
+
+To view your downloadables via your Afrimash account, kindly follow the steps below.
+How do I view/access downloadable files attached to my order?
+Once you have received an email notification of an update of your order from On-hold to Processing, your downloadables are immediately made available for your review and downloads.
+
+Login to your Afrimash account.
+Click on the human avatar/icon at the top of the homepage.
+Select Orders
+Scroll through the dropdown menu (on your mobile phone) or view the left corner of your desktop screen to find the Downloads tab.
+You will be redirected to your Downloads tab where you can view all downloadable files attached to your order.
+A sample of what is obtainable has been featured below.
+ 
+
+Kindly click on the options listed under download to preview and download the attached files/documents/media.
+Can all files be downloaded at anytime? What does the Expiry tab mean?
+
+Some files/documents have the infinity icon under Downloads remaining, this means the files can be downloaded at anytime without options of expiry as long as the customer’s account is still active.
+
+However, some selected products offer restricted access to files/downloads due to the category (paid E-books). For such options, a restriction for the the maximum number of downloads has been fixed and a countdown initiated for every download made.
+
+Such products also have limits to how long the downloadable files are made available to the customer, after which access is restricted pending a new order creation/process.
+
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+Do you deliver nationwide?
+Yes, you can pick up your order from our shipping partners in any of the 36 states in Nigeria. After you make your order, you will receive email and SMS to let you know how to pick up your order.
+
+Always ensure you make your order with your most active phone number and email address. If you have any of questions, please call our customer care line.
+
+Find our delivery points here.
+
+How fast can I get my products delivered to me? If I make payment today, can I receive it today?
+Our delivery timeline is 3 to 4 days after payment unless otherwise stated on the product page. If we plan to deliver earlier than our normal delivery timeline, we would contact you.
+
+
+
+complete transaction
+https://www.afrimash.com/cart/
+
+sign up
+https://www.afrimash.com/my-account/
+
+login
+https://www.afrimash.com/my-account/
+
+greeting
+sign_off
+
+
+
+if user speaks yoruba reply yoruba
+get input
+translate input
+
+story for translation:
+hi - what language do you speak
+
